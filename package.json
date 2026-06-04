@@ -1,0 +1,17 @@
+{
+  "name": "cicd-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "echo \"Build step - nothing to compile in this demo\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
